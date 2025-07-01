@@ -28,6 +28,7 @@ A simple Python tool that creates firewall rules for iptables, ufw (Ubuntu), and
 	Action: allow
 
 Example Output
+
 css
 Copy
 Edit
