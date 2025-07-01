@@ -26,6 +26,7 @@ A simple Python tool that creates firewall rules for iptables, ufw (Ubuntu), and
 	Port: 22
 	Protocol: tcp
 	Action: allow
+
 Example Output
 css
 Copy
