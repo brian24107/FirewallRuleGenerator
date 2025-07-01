@@ -29,9 +29,6 @@ A simple Python tool that creates firewall rules for iptables, ufw (Ubuntu), and
 
 Example Output
 
-css
-Copy
-Edit
 [iptables]
 iptables -A INPUT -p tcp --dport 22 -s 192.168.1.100 -j ALLOW
 
